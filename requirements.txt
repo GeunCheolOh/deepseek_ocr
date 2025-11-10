@@ -1,0 +1,12 @@
+torch==2.6.0
+torchvision
+transformers==4.46.3
+tokenizers==0.20.3
+streamlit>=1.28.0
+pillow>=10.0.0
+python-dotenv>=1.0.0
+einops
+addict
+easydict
+timm
+
